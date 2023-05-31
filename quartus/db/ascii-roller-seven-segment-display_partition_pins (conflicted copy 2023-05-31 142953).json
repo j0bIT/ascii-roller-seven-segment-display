@@ -1,0 +1,189 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "segment_a_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_1",
+					"strict" : false
+				},
+				{
+					"name" : "segment_a_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_2",
+					"strict" : false
+				},
+				{
+					"name" : "segment_a_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_3",
+					"strict" : false
+				},
+				{
+					"name" : "segment_a_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_4",
+					"strict" : false
+				},
+				{
+					"name" : "segment_a_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_5",
+					"strict" : false
+				},
+				{
+					"name" : "segment_a_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_b_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_c_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_d_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_e_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_f_6",
+					"strict" : false
+				},
+				{
+					"name" : "segment_g_6",
+					"strict" : false
+				},
+				{
+					"name" : "clock_in",
+					"strict" : false
+				},
+				{
+					"name" : "reset_n",
+					"strict" : false
+				},
+				{
+					"name" : "roller_en",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

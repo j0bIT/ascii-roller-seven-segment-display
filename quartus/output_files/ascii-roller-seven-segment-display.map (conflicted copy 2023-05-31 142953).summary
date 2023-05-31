@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed May 31 14:29:53 2023
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : ascii-roller-seven-segment-display
+Top-level Entity Name : ascii_display_top
+Family : MAX 10
+Total logic elements : 627
+    Total combinational functions : 627
+    Dedicated logic registers : 34
+Total registers : 34
+Total pins : 51
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
